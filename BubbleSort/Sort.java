@@ -13,7 +13,7 @@ class Sort {
     public static void main(String[]args){
 
         // Bubble sort 
-        int[] myarr = {8,3,1,2,9,7} ;
+        int myarr[] = {8,3,1,2,9,7} ;
         int n = myarr.length ;
 
         for(int i=0 ; i < n-1; i++){
